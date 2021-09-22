@@ -1,7 +1,7 @@
 ### hi, i'm teri. i design && code beautiful things.
 
-- 🔭 i’m currently teaching software engineering at general assembly
-- 🔭 i’m currently working on codexcoden, a digital encyclopedia for witches
+- ✨ i’m currently teaching software engineering at general assembly
+- ✨ i’m currently working on codexcoden, a digital encyclopedia for witches
 - i love video games, nine inch nails, my cats, learning as much as i can && actively working to make the world a better place.
 
 <!--
