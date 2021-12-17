@@ -2,6 +2,7 @@
 
 - ✨  i’m currently teaching software engineering at general assembly
 - ✨  i’m currently working on codexcoven, a digital encyclopedia for witches
+- ✨  in every aspect of my life i am always designing - currently my apartment
 - ✨  i love video games, nine inch nails, my cats, learning as much as i can && actively working to make the world a better place.
 
 <!--
