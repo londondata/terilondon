@@ -1,7 +1,7 @@
 ### hi, i'm teri. i design && code beautiful things. concurrently, i am:
 
 - ✨  teaching software engineering at general assembly
-- ✨  running =i/o, a hacker collective dedicated to innovation, education && keeping the internet free and open source
+- ✨  running [=i/o](http://github.com/equal-io), a hacker collective dedicated to innovation, education && keeping the internet free and open source
 - ✨  designing && building codexcoven, a digital almanac for witches
 - ✨  practicing medicine in the DR stack (copyright me, 2020) aka Django-React, my favorite stack of all time
 - ✨  practicing wild, mad science in general because i am a computer scientist
