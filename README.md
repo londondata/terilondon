@@ -1,9 +1,12 @@
-### hi, i'm teri. i design && code beautiful things.
+### hi, i'm teri. i design && code beautiful things. concurrently, i am:
 
-- ✨  i’m currently teaching software engineering at general assembly
-- ✨  i’m also currently building codexcoven, a digital almanac for witches
-- ✨  in every aspect of my life i am always designing - currently my apartment
-- ✨  i love video games, nine inch nails, my cats, astrology, technology, learning as much as i can && actively working to make the world a better place.
+- ✨  teaching software engineering at general assembly
+- ✨  running =i/o, a hacker collective dedicated to innovation, education && keeping the internet free and open source
+- ✨  designing && building codexcoven, a digital almanac for witches
+- ✨  practicing medicine in the DR stack (copyright me, 2020) aka Django-React, my favorite stack of all time
+- ✨  practicing wild, mad science in general because i am a computer scientist
+- ✨  building a choose your own adventure video game
+- ✨  in my spare time you can find me enjoying any number of the following things: video games, nine inch nails, my cats, astrology, pop culture, technology, learning as much as i can && actively working to make the world a better place.
 
 <!--
 **terilondon/terilondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
