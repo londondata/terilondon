@@ -3,7 +3,7 @@
 - ✨  a senior software engineer at aqueous, leading the frontend team, designing && architecting high scale React applications
 - ✨  running [=i/o](http://github.com/equal-io), a hacker collective dedicated to innovation, education && keeping the internet free and open source
 - ✨  designing && building codexcoven, a digital almanac for witches
-- ✨  practicing medicine in the DR stack (name copyright me, 2020) aka Django-React, my favorite stack of all time
+- ✨  practicing medicine in the DR stack, i name i coined for my favorite stack of all time, Django-React
 - ✨  practicing wild, mad science in general because i am a computer scientist
 - ✨  building a choose your own adventure video game
 - ✨  in my spare time you can find me enjoying any number of the following things: video games, nine inch nails, my cats, astrology, pop culture, technology, learning as much as i can && actively working to make the world a better place.
