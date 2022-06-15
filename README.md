@@ -1,6 +1,6 @@
 ### hi, i'm teri. i design && code beautiful things. concurrently, i am:
 
-- ✨  a senior software engineer at aqueous, leading the frontend team, designing && architecting high scale React applications
+- ✨  a senior software engineer at a startup, leading the frontend team, designing && architecting high scale React applications
 - ✨  running [=i/o](http://github.com/equal-io), a hacker collective dedicated to innovation, education && keeping the internet free and open source
 - ✨  designing && building codexcoven, a digital almanac for witches
 - ✨  practicing medicine in the DR stack, i name i coined for my favorite stack of all time, Django-React
